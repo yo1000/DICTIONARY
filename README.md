@@ -7,7 +7,7 @@ NAMING DICTIONARY
 |:---------------------|:----------|:----------------|
 | Class - Page         | *Page     | @Controller     |
 | Class - API          | *Resource | @RestController |
-| Method - HTTP.GET    | get*      |                 |
+| Method - HTTP GET    | get*      |                 |
 | Method - HTTP POST   | post*     |                 |
 | Method - HTTP PUT    | put*      |                 |
 | Method - HTTP DELETE | delete*   |                 |
