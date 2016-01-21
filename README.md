@@ -19,7 +19,7 @@ NAMING DICTIONARY
 | Class           | *Service    | @Service    |
 | Method - Create | create*     |             |
 | Method - Read   | find*       |             |
-| Method - Update | update*     |             |
+| Method - Update | modify*     |             |
 | Method - Delete | remove*     |             |
 
 ## Repository
