@@ -32,3 +32,4 @@ NAMING DICTIONARY
 | Method - Update | update*     |             |
 | Method - Delete | delete*     |             |
 | Method - Exists | exists*     |             |
+| Method - Count  | count*      |             |
