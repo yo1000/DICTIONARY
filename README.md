@@ -31,3 +31,4 @@ NAMING DICTIONARY
 | Method - Read   | select*     |             |
 | Method - Update | update*     |             |
 | Method - Delete | delete*     |             |
+| Method - Exists | exists*     |             |
