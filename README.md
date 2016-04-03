@@ -37,3 +37,4 @@ NAMING DICTIONARY
 ## JPA methods
 
 http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
+http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#repositories.query-methods.query-property-expressions
