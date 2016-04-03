@@ -33,3 +33,7 @@ NAMING DICTIONARY
 | Method - Delete | delete*     |             |
 | Method - Exists | exists*     |             |
 | Method - Count  | count*      |             |
+
+## JPA methods
+
+http://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation
